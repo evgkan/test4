@@ -1,0 +1,12 @@
+{
+    "name": "evgkan/test4",
+    "description": "Redis queue",
+    "require": {
+        "php": ">=8.2",
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
